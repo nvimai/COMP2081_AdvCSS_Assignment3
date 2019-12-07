@@ -131,6 +131,11 @@ main section:nth-child(2) {
   color: #807f83;
 }
 
+main section:last-child {
+  background-color: #fff;
+  color: #807f83;
+}
+
 section ul {
   list-style-type: none;
   padding-left: 0;
